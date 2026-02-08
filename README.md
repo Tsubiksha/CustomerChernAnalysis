@@ -88,3 +88,5 @@ This project analyzes customer churn behavior for a telecom company using **Powe
 - Understand key churn drivers
 - Take proactive retention actions
 - Improve customer lifetime value
+
+<img width="1159" height="625" alt="image" src="https://github.com/user-attachments/assets/254f7503-ec4b-4851-b870-60fec3dec78c" />
